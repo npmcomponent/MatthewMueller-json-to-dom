@@ -2,8 +2,8 @@
  * Module dependencies
  */
 
-var isArray = require('isArray'),
-    isObject = require('isObject');
+var isArray = require('yields-isArray'),
+    isObject = require('matthewmueller-isObject');
 
 /**
  * Export `json-to-dom`

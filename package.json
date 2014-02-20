@@ -1,0 +1,15 @@
+{
+  "name": "matthewmueller-json-to-dom",
+  "description": "fill in dom nodes with json",
+  "version": "0.0.2",
+  "keywords": [
+    "dom",
+    "json",
+    "json-to-dom"
+  ],
+  "dependencies": {
+    "yields-isArray": "git://github.com/npmcomponent/yields-isArray.git",
+    "matthewmueller-isObject": "git://github.com/npmcomponent/matthewmueller-isObject.git"
+  },
+  "license": "MIT"
+}
